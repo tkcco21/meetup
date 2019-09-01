@@ -1,4 +1,4 @@
-# Builderscon in 東京電機大学
+# Builderscon in 東京電機大学 1日目
 
 ## メルペイ開発の裏側
 https://speakerdeck.com/kazegusuri/builderscon-tokyo-2019-open-skt
@@ -37,6 +37,7 @@ webpackのhooks https://webpack.js.org/api/compiler-hooks/
 ---
 
 ## その他メモ・聞いてないやつとか
+
 RDBのトラブルの現場を追え！（メモ）
 https://www.notion.so/RDB-_20190830_builderscon2019-37060fa9c1d3408d855c90d06a5e2a9c
 
