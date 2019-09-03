@@ -29,26 +29,31 @@ ASTを確認できるもの https://astexplorer.net
 - webapckのtarget調べる
 - babelの設定ファイル調べる
 
-webpackの前身なるissue https://github.com/medikoo/modules-webmake/issues/7  
-What exactly is Hot Module Replacement in Webpack? https://stackoverflow.com/questions/24581873/what-exactly-is-hot-module-replacement-in-webpack  
-webpackのhooks https://webpack.js.org/api/compiler-hooks/
+webpackの前身なるissue  
+https://github.com/medikoo/modules-webmake/issues/7
+
+What exactly is Hot Module Replacement in Webpack?  
+https://stackoverflow.com/questions/24581873/what-exactly-is-hot-module-replacement-in-webpack
+
+webpackのhooks  
+https://webpack.js.org/api/compiler-hooks/
 
 
 ---
 
 ## その他メモ・聞いてないやつとか
 
-RDBのトラブルの現場を追え！（メモ）
+RDBのトラブルの現場を追え！（メモ）  
 https://www.notion.so/RDB-_20190830_builderscon2019-37060fa9c1d3408d855c90d06a5e2a9c
 
-Web API に秩序を与える Protocol Buffers / Protocol Buffers for Web API
+Web API に秩序を与える Protocol Buffers / Protocol Buffers for Web API  
 https://speakerdeck.com/south37/protocol-buffers-for-web-api-number-builderscon
 
-コンパイラを作ってみよう
+コンパイラを作ってみよう  
 https://speakerdeck.com/dqneo/how-to-make-a-compiler
 
-対戦ゲームに学ぶ、フレームワークの設計技法とAIのアルゴリズム入門
+対戦ゲームに学ぶ、フレームワークの設計技法とAIのアルゴリズム入門  
 https://note.mu/qsona/n/n137733801fd0
 
-ビジネスの構造を扱うアーキテクチャとユーザとの接点を扱うアーキテクチャ
+ビジネスの構造を扱うアーキテクチャとユーザとの接点を扱うアーキテクチャ  
 https://speakerdeck.com/a_suenami/soe-akitekutiya-number-kichijojipm（これの拡大版）
