@@ -4,17 +4,17 @@
 https://speakerdeck.com/kazegusuri/builderscon-tokyo-2019-open-skt
 
 ## CN Buildpacksが作る未来
-https://twitter.com/pyama86 GMOペパボ
+https://twitter.com/pyama86 GMOペパボ  
 https://speakerdeck.com/pyama86/cn-buildpacksgazuo-ruwei-lai
 
 - droneCI
 
-https://speakerdeck.com/shiro16/telepresence-deshi-meru-k8s-shi-dai-falserokarukai-fa
+https://speakerdeck.com/shiro16/telepresence-deshi-meru-k8s-shi-dai-falserokarukai-fa  
 https://tech.mercari.com/entry/2019/05/28/090000
 
 
 ## 宣言的UI for React, Vue.js, SwiftUI, Jetpack Compose, Flutter
-宣言的UI
+宣言的UI  
 https://speakerdeck.com/sonatard/xuan-yan-de-ui
 
 
@@ -22,15 +22,15 @@ https://speakerdeck.com/sonatard/xuan-yan-de-ui
 
 https://speakerdeck.com/mukai21/xian-zai-hurontoendoniqian-kasenaiwebpacktobabelwoli-jie-siyou
 
-test262 https://github.com/tc39/test262
-rome（babelを作った人のパッケージ） https://www.npmjs.com/package/rome
+test262 https://github.com/tc39/test262  
+rome（babelを作った人のパッケージ） https://www.npmjs.com/package/rome  
 ASTを確認できるもの https://astexplorer.net
 
 - webapckのtarget調べる
 - babelの設定ファイル調べる
 
-webpackの前身なるissue https://github.com/medikoo/modules-webmake/issues/7
-What exactly is Hot Module Replacement in Webpack? https://stackoverflow.com/questions/24581873/what-exactly-is-hot-module-replacement-in-webpack
+webpackの前身なるissue https://github.com/medikoo/modules-webmake/issues/7  
+What exactly is Hot Module Replacement in Webpack? https://stackoverflow.com/questions/24581873/what-exactly-is-hot-module-replacement-in-webpack  
 webpackのhooks https://webpack.js.org/api/compiler-hooks/
 
 

@@ -7,7 +7,7 @@ https://speakerdeck.com/niw/apurifalseguo-ji-hua-falsewu-tai-li
 https://speakerdeck.com/ytaka23/builderscon-tokyo-2019
 
 ## How to make front-end
-https://speakerdeck.com/nrslib/how-to-make-front-end
+https://speakerdeck.com/nrslib/how-to-make-front-end  
 https://nrslib.com/how-to-make-front-end/
 
 ## 20年後のソフトウェアテストの話をしよう / Software Testing for 20 years later
