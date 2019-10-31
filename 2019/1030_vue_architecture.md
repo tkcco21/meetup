@@ -1,5 +1,7 @@
 # Vue.jsアーキテクチャリング勉強会 in 株式会社クラウドワークス
 
+[connpass「Vue.jsアーキテクチャリング勉強会」](https://cw-engineers.connpass.com/event/146975/)
+
 ## イベント概要
 
 - 複数人でも耐えられるコンポーネント設計
